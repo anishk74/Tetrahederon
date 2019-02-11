@@ -1,2 +1,2 @@
 # Tetrahedron
-Seen a pyramid. Wanna visualize a Tetrahederon?
+Seen a pyramid.... Wanna visualize a Tetrahedron?
